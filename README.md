@@ -11,7 +11,7 @@
 
 ## Getting Started
 
-The rise of social media and online communities creates safe and anonymous spaces for individuals to share their thoughts about their mental health and express their feelings and sufferings in online communities. To prevent suicide, it is necessary to detect suicide-related posts and user's suicide ideation in cyberspace by natural language processing methods. I focused on the online community called Reddit and the social networking website Twitter, and classify user's posts with potential suicide and without suicidal risk through text features processing, machine learning, and deep learning based methods.
+The rapid growth of social media and online communities has provided anonymous and supportive spaces where individuals openly discuss their mental health, emotions, and personal struggles. To support suicide prevention efforts, it is crucial to identify suicide-related content and signs of suicidal ideation in online environments using Natural Language Processing techniques. This project focuses on platforms such as Reddit and Twitter, where user-generated posts are analyzed and classified as either indicating potential suicide risk or showing no suicidal intent through text feature extraction, machine learning, and deep learning approaches.
 
 ## Datasets
 
