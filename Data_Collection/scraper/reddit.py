@@ -1,8 +1,9 @@
 import praw
-reddit = praw.Reddit(client_id="UmxoiHqSrchW6Q",  # your client it
-                     client_secret="2pnNJXEodhy0vcZs4U6pTAUPqoM",  # your client secret
-                     user_agent="soumyajit4419",  # user agent name
-                     )
+reddit = praw.Reddit(
+    client_id="YOUR_CLIENT_ID",        # Replace with your Reddit app client ID
+    client_secret="YOUR_CLIENT_SECRET",# Replace with your Reddit app client secret
+    user_agent="YOUR_USER_AGENT"       # Replace with a descriptive user agent
+)
 
 
 def get_subreddits(subreddits, num_posts):
